@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+.jumbotron img {
+  /*tag img yang ada didalam class jumbotron */
+  width: 200px;
+}
+
+#portofolio {
+  background-color: #e2edff;
+}
